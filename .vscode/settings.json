@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "c:/SOURCE/curso_LangChain/venv/Scripts/python.exe": true,
+        "/^Set-Location 'c:\\\\SOURCE\\\\curso_LangChain\\\\cv_analyzer'; \\$env:PYTHONPATH='\\.'; & 'c:/SOURCE/CURSO_LANGCHAIN/venv/Scripts/python\\.exe' -c \"from services\\.pdf_processor import extraer_texto_pdf; from io import BytesIO; print\\('pypdf module ok'\\)\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

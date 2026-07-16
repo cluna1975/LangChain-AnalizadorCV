@@ -1,0 +1,2 @@
+(venv) PS C:\SOURCE\curso_LangChain\Tema1> 
+python -m streamlit run streamlit_chatbot.py --server.headless true --server.address 127.0.0.1
