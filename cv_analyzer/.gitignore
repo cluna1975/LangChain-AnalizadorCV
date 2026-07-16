@@ -9,6 +9,3 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
-
-*.pdf
-test_dotenv.py
